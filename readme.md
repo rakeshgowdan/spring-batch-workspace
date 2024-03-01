@@ -26,7 +26,7 @@ Spring Batch provides robust error handling, restartability, and scalability fea
 
 Consider this visual representation:
 
-
+```
   +-------------+       +--------------+       +-------------+
   | JobLauncher | ----> |   Job        | ----> | JobRepository|
   +-------------+       +--------------+       +-------------+
@@ -49,6 +49,8 @@ Consider this visual representation:
   |   Config    |       +-------------+       +-------------+
   +-------------+       | ItemProcessor|  
                          +-------------+
+
+```
 
 This diagram represents the flow and components in a Spring Batch architecture:
 
