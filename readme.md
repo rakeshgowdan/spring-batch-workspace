@@ -1,3 +1,5 @@
+offical  ref : https://github.com/spring-projects/spring-batch
+
 Spring Batch is a powerful framework within the Spring ecosystem designed specifically for batch processing. Its architecture is built around several key components:
 
 1. **Job**: The highest-level structure in Spring Batch. It represents a single unit of work to be executed, consisting of steps to be performed in a defined sequence.
