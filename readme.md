@@ -68,6 +68,10 @@ This architecture showcases the flow from the JobLauncher to the JobRepository, 
 
 Each component plays a specific role in the overall batch processing flow, allowing for modularity, customizability, and scalability within a Spring Batch application.
 
+<img width="379" alt="image" src="https://github.com/rakeshgowdan/spring-batch-workspace/assets/41374671/e9dfd595-777b-490e-ac6b-6b086087ce39">
+
+<img width="261" alt="image" src="https://github.com/rakeshgowdan/spring-batch-workspace/assets/41374671/dea5a58a-8347-4f28-880a-b5ca4799b050">
+
 
 # By default the exceution is sync calls 
 
@@ -100,3 +104,9 @@ and step accepting the executor
     }
 
 ```
+
+
+Reference Links 
+https://terasoluna-batch.github.io/guideline/5.0.0.RELEASE/en/Ch02_SpringBatchArchitecture.html#Ch02_SpringBatchArch_Detail_ProcessFlow
+https://www.youtube.com/watch?v=hr2XTbKSdAQ&ab_channel=JavaTechie
+
